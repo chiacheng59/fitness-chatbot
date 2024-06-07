@@ -13,4 +13,5 @@ Line機器人會回覆你的體重數值，並將數值同步紀錄到Google she
 
 
 ## Demo
-![image](IMG_0424.PNG) ![image](demo2.png)
+<img src="IMG_0424.PNG" width="350px">
+<img src="demo2.png" width="350px">
